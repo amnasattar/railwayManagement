@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amna\\Desktop\\Railway_project\\Railway_project\\Railway_project.csproj": {}
+    "C:\\Users\\amna\\Source\\Repos\\railwayManagement\\Railway_project\\Railway_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amna\\Desktop\\Railway_project\\Railway_project\\Railway_project.csproj": {
+    "C:\\Users\\amna\\Source\\Repos\\railwayManagement\\Railway_project\\Railway_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amna\\Desktop\\Railway_project\\Railway_project\\Railway_project.csproj",
+        "projectUniqueName": "C:\\Users\\amna\\Source\\Repos\\railwayManagement\\Railway_project\\Railway_project.csproj",
         "projectName": "Railway_project",
-        "projectPath": "C:\\Users\\amna\\Desktop\\Railway_project\\Railway_project\\Railway_project.csproj",
+        "projectPath": "C:\\Users\\amna\\Source\\Repos\\railwayManagement\\Railway_project\\Railway_project.csproj",
         "packagesPath": "C:\\Users\\amna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amna\\Desktop\\Railway_project\\Railway_project\\obj\\",
+        "outputPath": "C:\\Users\\amna\\Source\\Repos\\railwayManagement\\Railway_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
